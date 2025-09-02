@@ -28,8 +28,8 @@ npm install
 Create a `.env` file in the root of the project with the following variables:
 
 - PORT=3000
-- MONGO_URI=<your-mongodb-uri>
-- JWT_SECRET=<your-secret-key>
+- MONGO_URI=your-mongodb-uri
+- JWT_SECRET=your-secret-key
 
 ---
 
