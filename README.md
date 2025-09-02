@@ -27,9 +27,9 @@ npm install
 
 Create a `.env` file in the root of the project with the following variables:
 
-PORT=3000
-MONGO_URI=<your-mongodb-uri>
-JWT_SECRET=<your-secret-key>
+- PORT=3000
+- MONGO_URI=<your-mongodb-uri>
+- JWT_SECRET=<your-secret-key>
 
 ---
 
@@ -62,9 +62,9 @@ http://localhost:3000/api-docs
 
 ## Technologies
 
-Node.js 20+
-Express 5
-MongoDB & Mongoose
-JWT Authentication
-Jest & Supertest for testing
-Swagger (swagger-jsdoc & swagger-ui-express) for API documentation
+- Node.js 20+
+- Express 5
+- MongoDB & Mongoose
+- JWT Authentication
+- Jest & Supertest for testing
+- Swagger (swagger-jsdoc & swagger-ui-express) for API documentation
