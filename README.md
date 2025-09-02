@@ -37,6 +37,11 @@ Create a `.env` file in the root of the project with the following variables:
 ```bash
 node seed.js
 ```
+```
+Admin Account:
+Username: admin
+Password: admin123
+```
 ## Scripts
 ```bash
 npm run start ## Start in production mode
